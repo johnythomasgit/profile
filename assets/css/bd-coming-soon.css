@@ -11,6 +11,7 @@ body {
         padding-bottom: 110px; } }
   
   .navbar-brand {
+    text-align: center;
     margin-right: 0; }
     .navbar-brand img {
       height: 21px; }
